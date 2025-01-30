@@ -1,0 +1,34 @@
+
+
+
+#Cart_Main{
+position: relative;
+padding-left: 50px;
+}
+
+#Cart_BG_Img{
+position: absolute;
+right: 50px;
+top: 50px;
+}
+#Cart_product{
+    height: 350px;
+    width: 550px;
+    border: double 3px orangered;
+    position: relative;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* #Cart_item{
+    padding: 10px;
+} */
+#Cart_Image{
+    height: 320px;
+    width: 250px;
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    border-radius: 30px;
+}

@@ -1,0 +1,42 @@
+
+.App{
+  /* background-color: rgb(60, 103, 243); */
+  margin: 0 !important;
+}
+header{
+  position: relative;
+  height: 11vh;
+  background-color: rgb(60, 103, 243);
+
+}
+#Nav_File{
+  display: flex;
+  flex-direction: column;
+  padding-top: 5px;
+  margin-top: 9px;
+  position: absolute;
+  right: 0;
+}
+#User_Profile{
+position: absolute;
+left: 10px;
+}
+#Guest_icon{
+  height: 30px;
+  width: 30px;
+  padding-right: 10px;
+}
+
+.Nav_Link{
+ font-size: 20px;
+ color: white;
+ text-decoration: none;
+ padding:8px;
+ padding-bottom: 12px;
+ margin-right: 70px;
+ border-radius: 50px;
+}
+
+.Nav_Link:hover{
+  background-color: rgb(10, 10, 10);
+}

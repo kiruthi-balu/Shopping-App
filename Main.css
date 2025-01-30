@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font { 
+        font-family: "Macondo", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+  }
+
+#Main_container{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(60, 103, 243);
+    position: relative;
+}
+
+#Products{
+    height: 85vh;
+    width: 50vw;
+    background-color: beige;
+    position: absolute;
+    top:50px;
+    left: 50px;
+    overflow-y: scroll;
+}
+#Main_picture{
+    
+    position: absolute;
+    right: 40px;
+    bottom: 25px;
+    /* width: 99%; */
+}

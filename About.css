@@ -1,0 +1,19 @@
+
+
+#About_Main{
+    height: 524px;
+    width: 100%;
+    background-image: url(https://media.istockphoto.com/id/887360960/photo/mens-suits-on-hangers-in-different-colors.jpg?s=612x612&w=0&k=20&c=RR19yJjRuR-CBWj9u1sQkFgtdYJ07KEkM678R0mtuZY=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#About_Quote{
+    height: 350px;
+    width: 430px;
+    font-size:70px;
+    text-align: end;
+    padding-right: 10px;
+    color: rgb(245, 245, 148);
+    font-style: italic;
+}
