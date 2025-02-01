@@ -6,7 +6,7 @@ function Cart({ myCart }) {
   return (
     <div id="Cart_Main">
        <div id="Cart_BG_Img">
-       <img src="https://www.iconpacks.net/icons/2/free-shopping-cart-icon-2029-thumb.png" alt="" />
+       <img src="https://5.imimg.com/data5/BR/MO/SB/SELLER-2045989/shopping-bag-500x500.png" alt="" />
        </div>
       <div style={{textAlign:"center"}}>
         <h1>Take To Home</h1>
