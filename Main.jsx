@@ -41,6 +41,16 @@ function Main({setcartItem}) {
       price: "Rs.2050/-",
       source:"https://i.pinimg.com/736x/91/32/51/91325161c14407f1f784a740897d3cdf.jpg",
     },
+    {
+      name: "Wedding Suit",
+      price: "Rs.2850/-",
+      source:"https://i.pinimg.com/736x/91/32/51/91325161c14407f1f784a740897d3cdf.jpg",
+    },
+    {
+      name: "Wedding Suit",
+      price: "Rs.27750/-",
+      source:"https://i.pinimg.com/736x/91/32/51/91325161c14407f1f784a740897d3cdf.jpg",
+    },
   ];
   const addToCart = (product) => {
     setcartItem((prevData) => [...prevData, product]);
